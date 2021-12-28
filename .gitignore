@@ -1,3 +1,20 @@
+
+##################################
+#
+#  project-specific
+#
+##################################
+
+med_temp.csv
+med_temp-html
+meditemp-log.txt
+
+##################################
+#
+#  Python-related
+#
+##################################
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
