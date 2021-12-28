@@ -6,8 +6,9 @@
 ##################################
 
 med_temp.csv
-med_temp-html
+med_temp.html
 meditemp-log.txt
+gnuplot.cached_files/*
 
 ##################################
 #
