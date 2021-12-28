@@ -107,7 +107,7 @@ sudo python3 [absolute path to meditemp]/meditemp.py [optional arguments] &
 
 before the `exit 0` and after the shebang and anything else in the file (the ampersand is important).
 
-Then press <kbd>Ctrl</kbd>+<kbd>X</kbd>` and press <kbd>y</kbd> and <kbd>Enter</kbd>.
+Then press <kbd>Ctrl</kbd>+<kbd>X</kbd> and press <kbd>y</kbd> and <kbd>Enter</kbd>.
 
 ## What to do in case of bugs?
 
