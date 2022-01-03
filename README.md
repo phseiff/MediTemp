@@ -1,4 +1,7 @@
-# MediTemp
+<!-- # MediTemp -->
+
+<img src="docs/title.png" width="500px" alt="MediTemp">
+
 > A program for monitoring the temperature in your medication cabinet and warning you via Telegram when it's too hot or cold - complete with setup instructions
 
 If you've ever lived in a one-room-appartment, you know how difficult it can be to keep your medication at a medication-friendly temperature and humidity.
