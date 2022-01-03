@@ -27,7 +27,7 @@ You can also change the interval in which the temperature is changed in the file
 You'll need a TEMPer device, which looks like a USB stick, but contains a thermometer and, in some cases, a humidity sensor that can be accessed by a connected machine.
 The one I used (for which this program is tested) is the [classic TEMPer device](https://www.amazon.de/-/en/gp/product/B07BFBSF57/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1) which is also pretty affordable (around 15USD), but doesn't offer humidity support; alternatives and how to identify them are listed [here](devices.md).
 
-You will also need a USB A DOM to USB A SUB cable to connect the TEMPer device to your machine on which you run meditemp;
+You will also need a USB-A plug to USB-A socket cable to connect the TEMPer device to your machine on which you run meditemp;
 the one I used is [this one](https://www.amazon.de/-/en/gp/product/B00BBPVNFE/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&th=1).
 You could, theoretically, do without this if you store your machine in your medicine cabinet, but I wouldn't recommend this since your machine will emit heat into the medicine cabinet and also heat up the temperature sensor itself.
 
