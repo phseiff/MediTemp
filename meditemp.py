@@ -182,7 +182,7 @@ def mainloop():
                 warning_list.append("Temperature alert: " + str(temperature) + "°")
             if humidity and humidity > 0.6:
                 warning_list.append("Humidity alert: " + str(humidity * 100) + "%")
-            if warning_list and "--no-notif" in sys.argv:
+            if warning_list and "--no-notif" not in sys.argv:
                 telegram_send.send(messages=warning_list)
 
             # print relevant info:
